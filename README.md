@@ -10,6 +10,7 @@
 - 📫 How to reach me: [Twitter - @devanggarg1](https://twitter.com/devanggarg1) , [Linkedin - Devang Garg](https://www.linkedin.com/in/devang-garg-846176a8/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours watching movies and web series every day.
+- 📫 How to reach me **devanggarg1@gmail.com**
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gargdevang/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devang-garg-846176a8/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/devanggarg1)
