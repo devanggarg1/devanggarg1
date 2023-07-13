@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanggarg1&label=Views&color=blue&style=plastic" alt="devanggarg1" /> </p>
 
 # 💫About Me :
-- 🔭 I’m currently working on Front End Web Development.
-- 🌱 I’m currently learning more about JS.
-- 🤔 I’m looking for help with Machine Learning Models.
-- 💬 Ask me about HTML,CSS or any tech-related stuff.
+- 🔭 Aspiring Software Developer || Cyber Security and Data Analytics Enthusiast.
+- 🌱 I’m currently learning more about Data Analytics.
+- 🤔 I’m looking for help with Security Models.
+- 💬 Ask me about Python,Tkinter or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @devanggarg1](https://twitter.com/devanggarg1) , [Linkedin - Devang Garg](https://www.linkedin.com/in/devang-garg-846176a8/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 12 hours watching movies and web series every day.
+- 😄 Pronouns: He/Him
+- ⚡ Interesting Fact: I balance my day by dedicating time to improve my coding skills and enjoying leisure activities. This helps me manage stress and work effectively, prioritizing tasks while maintaining a healthy work-life balance.
 - 📫 How to reach me **devanggarg1@gmail.com**
 
 ## 🌐Socials
