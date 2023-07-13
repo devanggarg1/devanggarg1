@@ -9,7 +9,8 @@
 - 💬 Ask me about Python,Tkinter or any tech-related stuff.
 - 📫 How to reach me: [Twitter - @devanggarg1](https://twitter.com/devanggarg1) , [Linkedin - Devang Garg](https://www.linkedin.com/in/devang-garg-846176a8/)
 - 😄 Pronouns: He/Him
-- ⚡ Interesting Fact: I balance my day by dedicating time to improve my coding skills and enjoying leisure activities. This helps me manage stress and work effectively, prioritizing tasks while maintaining a healthy work-life balance.
+- ⚡ Interesting Fact: I balance my day by dedicating time to improve my coding skills and enjoying leisure activities. This helps me manage stress and work effectively, prioritizing 
+                        tasks while maintaining a healthy work-life balance.
 - 📫 How to reach me **devanggarg1@gmail.com**
 
 ## 🌐Socials
